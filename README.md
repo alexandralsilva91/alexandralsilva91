@@ -1,13 +1,12 @@
 Once I studied:  
   
-🌱 C   
+🌱 C<br><br>   
   
   
 Comfortable with:  
   
 🌲 HTML/ CSS/ SCSS  
 🌲 JavaScript  
-🌲 TypeScript  
 🌲 TypeScript  
 🌲 React  
 
