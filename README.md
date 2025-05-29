@@ -1,11 +1,11 @@
-Once I studied:
+Once I studied:  
 🌱 C 
 
-Comfortable with:
-🌲 HTML/ CSS
-🌲 JavaScript
-🌲 TypeScript
-🌲 TypeScript
-🌲 React
+Comfortable with:  
+🌲 HTML/ CSS  
+🌲 JavaScript  
+🌲 TypeScript  
+🌲 TypeScript  
+🌲 React  
 
 
