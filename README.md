@@ -3,7 +3,7 @@ Once, I studied:
   🌱 C<br><br>   
   
   
-Comfortable with:  
+Currently, comfortable with:  
   
   🌲 HTML/ CSS/ SCSS  
   🌲 JavaScript  
