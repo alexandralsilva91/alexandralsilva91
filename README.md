@@ -1,4 +1,4 @@
-Once I studied:  
+Once, I studied:  
   
   🌱 C<br><br>   
   
