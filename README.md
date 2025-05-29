@@ -1,6 +1,6 @@
 Once I studied:  
   
-🌱 C 
+🌱 C   
   
 
 Comfortable with:  
