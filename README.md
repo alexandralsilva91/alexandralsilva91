@@ -2,10 +2,10 @@ Once I studied:
   
 🌱 C   
   
-
+  
 Comfortable with:  
   
-🌲 HTML/ CSS  
+🌲 HTML/ CSS/ SCSS  
 🌲 JavaScript  
 🌲 TypeScript  
 🌲 TypeScript  
